@@ -1,4 +1,4 @@
-// Pair Extraordinaire achievement
+// Pair Extraordinaire achievement - attempt 2
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
